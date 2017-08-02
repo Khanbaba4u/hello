@@ -1,0 +1,5 @@
+Work extenisvely on migration of legacy reports to big data from data lake using Hadoop ecosystem components such as HDFS, Map Reduce, Pig, Hive, Oozie, Spark, Python, Shell Scripting
+Import the needed data from relational databases in to HDFS using Sqoop and importing various formats of flat files in to HDFS. 
+Designed and Created of Hive tables in optimized row columnar formats and worked on various performance optimizations such as partitions, bucketing and in Hive. 
+Wrote and used UDFs to in HIVE to enhance functionality per user requirements
+Utilized Hive and Spark to extract and format data from hive tables per user requirements.
